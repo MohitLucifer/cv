@@ -1,0 +1,38 @@
+
+nav a{
+    padding: 14px ;
+    color: rgb(22, 21, 21);
+    text-decoration: none;
+     text-align: center;
+}
+nav{
+    background-color: #F06;
+    width: 1000px;
+}
+.mohit{
+    border:12px solid black;
+    padding: 12px;
+    border-collapse: collapse;
+    display: inline-block;
+}
+
+body header{
+    background-color:#d0d31c;
+    
+    text-align: center;
+}
+
+h1{
+    color:#F06;
+}
+hr 
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width:5%  
+}
+
+img:hover{
+    color: yellow;
+}
